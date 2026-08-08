@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mitivpn.com/</loc>
+    <loc>https://mitivpn.org/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://mitivpn.com/protocols/</loc>
+    <loc>https://mitivpn.org/protocols/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mitivpn.com/protocols/vless/</loc>
+    <loc>https://mitivpn.org/protocols/vless/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://mitivpn.com/protocols/wireguard/</loc>
+    <loc>https://mitivpn.org/protocols/wireguard/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://mitivpn.com/protocols/openvpn/</loc>
+    <loc>https://mitivpn.org/protocols/openvpn/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://mitivpn.com/protocols/shadowsocks/</loc>
+    <loc>https://mitivpn.org/protocols/shadowsocks/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://mitivpn.com/protocols/socks5/</loc>
+    <loc>https://mitivpn.org/protocols/socks5/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
